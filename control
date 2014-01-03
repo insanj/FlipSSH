@@ -1,0 +1,9 @@
+Package: com.insanj.flipssh
+Name: FlipSSH
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, openssh
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An open source SSH Flipswitch.
+Maintainer: Julian Weiss <me@insanj.com>
+Author: Julian (insanj) Weiss <me@insanj.com>
+Section: Addons (Flipswitch)
