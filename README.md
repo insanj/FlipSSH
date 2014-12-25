@@ -1,11 +1,10 @@
-FlipSSH
-=======================
+# FlipSSH
 
-Open source SSH toggle for FlipSwitch. Because I was tired of not having an Open Source way to do this. And I wanted it before the other one was updated.
+Open source SSH toggle for FlipSwitch. Because I was tired of not having an Open Source way to do this. And I wanted it before the other one was updated. **Shelved** due to the official FlipSwitch being updated within a relatively short period of time.
 
----------------------------------------
+## License
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013-2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
